@@ -1,11 +1,11 @@
-YOLOv1     2016   CVPR
+YOLOv1     2016
 优点：
 缺点：
 
-YOLOv2     2017   CVPR
+YOLOv2     2017
 优点：
 缺点：
 
-YOLOv3     2018   arXiv
+YOLOv3     2018
 优点：
 缺点：
