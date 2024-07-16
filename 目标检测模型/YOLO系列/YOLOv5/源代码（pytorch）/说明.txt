@@ -1,4 +1,0 @@
-YOLOv5的官方源码是基于pytorch框架的，采用Python语言编写.
-源码：https://github.com/ultralytics/yolov5
-
-权重文件：https://pan.baidu.com/s/1aFp99lUyysxO_KLcRO8I9A?pwd=vl0m

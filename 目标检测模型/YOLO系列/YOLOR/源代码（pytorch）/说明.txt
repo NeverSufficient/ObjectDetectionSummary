@@ -1,3 +1,0 @@
-YOLOR的官方源码是基于pytorch框架的，采用Python语言编写.
-源码：https://github.com/WongKinYiu/yolor
-

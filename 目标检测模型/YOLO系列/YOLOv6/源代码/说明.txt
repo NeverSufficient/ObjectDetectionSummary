@@ -1,0 +1,2 @@
+源码：https://github.com/meituan/YOLOv6
+权重文件：https://pan.baidu.com/s/1v8E3bT1DVAJZgwEfhs6ewg?pwd=b5te

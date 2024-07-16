@@ -1,0 +1,2 @@
+源码：https://github.com/WongKinYiu/yolov7
+权重文件：https://pan.baidu.com/s/1QhcP-7f8XKv1RSTmfVYa_A?pwd=b5te

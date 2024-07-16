@@ -1,6 +1,6 @@
-YOLOv4的官方源码是基于darknet框架的，采用C语言和CUDA编写.
+YOLOv4的官方源码是基于darknet框架的.
 源码：https://github.com/AlexeyAB/darknet
 使用方法与YOLOv3类似
 
-权重文件：https://pan.baidu.com/s/1oMuKqvPcrXNvdjtoN3xOoA?pwd=jzak
+权重文件：https://pan.baidu.com/s/1uUauT8HfPwxLLxWgrbg_yw?pwd=b5te
 

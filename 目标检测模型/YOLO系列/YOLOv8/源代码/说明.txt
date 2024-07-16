@@ -1,0 +1,2 @@
+源码：https://github.com/ultralytics/ultralytics
+权重文件：https://pan.baidu.com/s/1JSlo5cce26z1yMHx5fzooA?pwd=b5te
