@@ -1,0 +1,11 @@
+YOLOv1~v3（darknet）：https://github.com/pjreddie/darknet
+YOLOv4（darknet）：https://github.com/AlexeyAB/darknet
+YOLOv5：(pytorch)：https://github.com/ultralytics/yolov5
+YOLOR（pytorch）：https://github.com/WongKinYiu/yolor
+YOLOX（pytorch）：https://github.com/Megvii-BaseDetection/YOLOX
+YOLOv6（pytorch）：https://github.com/meituan/YOLOv6
+YOLOv7（pytorch）：https://github.com/WongKinYiu/yolov7
+YOLOv8（pytorch）：https://github.com/ultralytics/ultralytics
+YOLOv9（pytorch）：https://github.com/WongKinYiu/yolov9
+YOLOv10（pytorch）：https://github.com/THU-MIG/yolov10
+

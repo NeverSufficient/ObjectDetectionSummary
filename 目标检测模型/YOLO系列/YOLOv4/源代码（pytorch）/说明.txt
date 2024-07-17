@@ -1,4 +1,0 @@
-此为YOLOv4的pytorch版本.
-源码：https://github.com/WongKinYiu/PyTorch_YOLOv4
-
-
