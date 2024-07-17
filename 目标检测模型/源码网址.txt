@@ -8,4 +8,11 @@ YOLOv7（pytorch）：https://github.com/WongKinYiu/yolov7
 YOLOv8（pytorch）：https://github.com/ultralytics/ultralytics
 YOLOv9（pytorch）：https://github.com/WongKinYiu/yolov9
 YOLOv10（pytorch）：https://github.com/THU-MIG/yolov10
+R-CNN（caffe）：https://github.com/rbgirshick/rcnn
+Fast R-CNN（caffe）：https://github.com/rbgirshick/fast-rcnn
+Faster R-CNN（caffe）：https://github.com/rbgirshick/py-faster-rcnn
+Mask R-CNN（caffe2）：https://github.com/facebookresearch/Detectron
+Mask R-CNN（pytorch）：https://github.com/facebookresearch/detectron2
+
+
 

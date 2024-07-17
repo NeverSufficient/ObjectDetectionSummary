@@ -1,0 +1,4 @@
+Detectron是一个基于caffe2的软件系统，
+集成了Mask R-CNN、RetinaNet、Faster R-CNN、RPN、Fast R-CNN、R-FCN等多个目标检测模型。
+Detectron2是它的pytorch版本，
+使用教程：https://detectron2.readthedocs.io/en/latest/tutorials/index.html。
