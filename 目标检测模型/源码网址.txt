@@ -8,11 +8,21 @@ YOLOv7（pytorch）：https://github.com/WongKinYiu/yolov7
 YOLOv8（pytorch）：https://github.com/ultralytics/ultralytics
 YOLOv9（pytorch）：https://github.com/WongKinYiu/yolov9
 YOLOv10（pytorch）：https://github.com/THU-MIG/yolov10
+SSD（caffe）：https://github.com/weiliu89/caffe/tree/ssd
+RetinaNet（caffe2）：https://github.com/facebookresearch/Detectron
+RetinaNet（pytorch）：https://github.com/facebookresearch/detectron2
+FCOS（pytorch）：https://github.com/tianzhi0549/FCOS
 R-CNN（caffe）：https://github.com/rbgirshick/rcnn
 Fast R-CNN（caffe）：https://github.com/rbgirshick/fast-rcnn
 Faster R-CNN（caffe）：https://github.com/rbgirshick/py-faster-rcnn
+Faster R-CNN（Matlab）：https://github.com/shaoqingren/faster_rcnn
 Mask R-CNN（caffe2）：https://github.com/facebookresearch/Detectron
 Mask R-CNN（pytorch）：https://github.com/facebookresearch/detectron2
+DETR（pytorch）：https://github.com/facebookresearch/detr
+Deformable DETR（pytorch）：https://github.com/fundamentalvision/Deformable-DETR
+DINO（pytorch）：https://github.com/IDEA-Research/DINO
+ViDT（pytorch）：https://github.com/naver-ai/vidt/tree/main
+ViDT+（pytorch）：https://github.com/naver-ai/vidt
 
 
 

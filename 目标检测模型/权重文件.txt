@@ -9,7 +9,12 @@ YOLOv7：https://pan.baidu.com/s/1QhcP-7f8XKv1RSTmfVYa_A?pwd=b5te
 YOLOv8：https://pan.baidu.com/s/1JSlo5cce26z1yMHx5fzooA?pwd=b5te
 YOLOv9：https://pan.baidu.com/s/1hTYkvJTdVZqee_qdjUll5w?pwd=b5te
 YOLOv10：https://pan.baidu.com/s/1F_FiztkbKbbtQ8sdI1gwBA?pwd=b5te
+FCOS：https://pan.baidu.com/s/180rfNd3YVLIFFX5shS669w?pwd=b5te
 R-CNN：https://pan.baidu.com/s/1SXkpq1BmB0Iz9_gYl-V2-w?pwd=b5te
 Fast R-CNN：https://pan.baidu.com/s/16rWO9DMLctaOmTMQoErJCA?pwd=b5te
 Faster R-CNN：https://pan.baidu.com/s/1mZw0fIP2JCI5DQRyOiQRBQ?pwd=b5te
+DETR：https://pan.baidu.com/s/1SGfZVFSQsi3_14CTNjRxZg?pwd=b5te
+Deformable DETR：https://pan.baidu.com/s/1p8Hngnrh3rxQf3stG_UDLA?pwd=b5te
+DINO：https://pan.baidu.com/s/1x1X3mFMz3Fy8VRqQSBtT8A?pwd=b5te
+ViDT：https://pan.baidu.com/s/1a-dUtfP1wzJAjULQJzAVrw?pwd=b5te
 
